@@ -53,3 +53,11 @@ dkms.conf
 
 # debug information files
 *.dwo
+/.vs
+/Template/.vs/Template.slnx
+/Template/Template/obj
+/Template/Template/Properties/PublishProfiles
+/Template/Template/Template.csproj.user
+/Template/Template/Assets
+/Template/Template/app.manifest
+/Template/Template/Package.appxmanifest
