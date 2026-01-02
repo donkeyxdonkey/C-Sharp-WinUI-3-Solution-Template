@@ -4,6 +4,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Template.SourceGenerator/Template.SourceGenerator.csproj" Id="7a1c18b5-7857-4515-be08-c77a2996b2c2" />
   <Project Path="Template/Template.csproj">
     <Platform Solution="*|ARM64" Project="ARM64" />
     <Platform Solution="*|x64" Project="x64" />
